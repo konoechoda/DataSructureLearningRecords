@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"a3a88c32010414f6","x":-380,"y":-280,"width":250,"height":60,"type":"text","text":"树"},
+		{"id":"f5d810ee3b61d16d","x":-380,"y":-20,"width":250,"height":60,"type":"text","text":"二叉树"}
+	],
+	"edges":[]
+}

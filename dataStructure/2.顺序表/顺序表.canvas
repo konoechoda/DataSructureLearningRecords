@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"61ecfe83145dec19","type":"text","text":"顺序表\n","x":-660,"y":-400,"width":250,"height":60},
+		{"id":"4cd8a07f21e6db34","type":"text","text":"顺序表的结构","x":-205,"y":-400,"width":250,"height":60},
+		{"id":"13cc18fbc2548cea","type":"text","text":"线性表的基本操作","x":237,"y":-680,"width":250,"height":60},
+		{"id":"14295d0ac4893571","type":"text","text":"顺序存储的线性表\n","x":-205,"y":-540,"width":250,"height":60},
+		{"id":"50927167c26a090b","type":"text","text":"线性表的定义","x":-205,"y":-680,"width":250,"height":60},
+		{"id":"e5544734835220a9","type":"text","text":"顺序表的特点","x":237,"y":-320,"width":250,"height":60},
+		{"id":"92246100b1279bd8","type":"text","text":"顺序表的实现\n","x":-205,"y":-180,"width":250,"height":60},
+		{"id":"2272dc302b9ef64c","type":"text","text":"顺序表存储类型描述","x":237,"y":-510,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"d01024f52d112a47","fromNode":"61ecfe83145dec19","fromSide":"right","toNode":"50927167c26a090b","toSide":"left"},
+		{"id":"0f707f0fa1a96e41","fromNode":"61ecfe83145dec19","fromSide":"right","toNode":"4cd8a07f21e6db34","toSide":"left"},
+		{"id":"6679b84d4b415c18","fromNode":"61ecfe83145dec19","fromSide":"right","toNode":"92246100b1279bd8","toSide":"left"},
+		{"id":"12f975e2d440aa72","fromNode":"4cd8a07f21e6db34","fromSide":"right","toNode":"2272dc302b9ef64c","toSide":"left"},
+		{"id":"5a31218a3523fee5","fromNode":"4cd8a07f21e6db34","fromSide":"right","toNode":"e5544734835220a9","toSide":"left"},
+		{"id":"1b3c5a9353425ec0","fromNode":"50927167c26a090b","fromSide":"right","toNode":"13cc18fbc2548cea","toSide":"left"},
+		{"id":"6c66b1eff1e78f33","fromNode":"50927167c26a090b","fromSide":"bottom","toNode":"14295d0ac4893571","toSide":"top"},
+		{"id":"f136b80347b8a798","fromNode":"14295d0ac4893571","fromSide":"bottom","toNode":"4cd8a07f21e6db34","toSide":"top"}
+	]
+}
