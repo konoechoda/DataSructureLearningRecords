@@ -9,8 +9,8 @@
 		{"id":"c327a6a3171f2b4c","type":"text","text":"链式存储的线性表","x":700,"y":-490,"width":250,"height":60},
 		{"id":"c8558849e516b9d8","type":"text","text":"双链表的实现","x":328,"y":-60,"width":250,"height":60},
 		{"id":"242663f53bad4248","type":"text","text":"双链表的结构","x":328,"y":-180,"width":250,"height":60},
-		{"id":"84e1dfbe9ae462f6","x":328,"y":100,"width":250,"height":60,"type":"text","text":"循环单链表"},
-		{"id":"73bc4d236b85a83b","x":328,"y":220,"width":250,"height":60,"type":"text","text":"循环双链表"}
+		{"id":"84e1dfbe9ae462f6","type":"text","text":"循环单链表","x":328,"y":100,"width":250,"height":60},
+		{"id":"73bc4d236b85a83b","type":"text","text":"循环双链表","x":328,"y":220,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"83d94e668d2fdb89","fromNode":"e017f8db67062fd7","fromSide":"right","toNode":"a783d7b1da215282","toSide":"left"},
